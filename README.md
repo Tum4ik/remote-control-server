@@ -1,5 +1,10 @@
-[Remote Control Client](https://github.com/Tum4ik/remote-control-client) ([releases](https://github.com/Tum4ik/remote-control-client/releases))
-# Remote Control Server
+<p align="center">
+  <img src=".attachments/logo.png" />
+</p>
 
-## Installation
-The installation path must not contain whitespaces.
+# Remote Control Server
+[![Latest version: 1.0.21181.2](https://img.shields.io/badge/Latest_version-1.0.20170.5-007ACC)](https://github.com/Tum4ik/remote-control-server/releases/download/1.0.21181.2/RemoteControlServer-1.0.21181.2.exe)
+[![Remote Control Client: Downloads](https://img.shields.io/badge/Remote_Control_Client-Downloads-007ACC)](https://github.com/Tum4ik/remote-control-server/releases)
+
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-green)](LICENSE)
+![Platform: Windows](https://img.shields.io/badge/Platform-Android-99cc02)
