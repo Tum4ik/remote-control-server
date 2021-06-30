@@ -7,4 +7,4 @@
 [![Remote Control Server: Downloads](https://img.shields.io/badge/Remote_Control_Server-Downloads-007ACC)](https://github.com/Tum4ik/remote-control-server/releases)
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-%23373737)](LICENSE)
-![Platform: Windows](https://img.shields.io/badge/Platform-Windows-%23373737)
+![Platform: Windows](https://img.shields.io/badge/Platform-Windows-lightgrey)
