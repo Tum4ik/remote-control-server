@@ -15,3 +15,9 @@
 * System volume control
 
 ## Screenshots
+### Tray Menu
+![](.attachments/tray-menu.png)
+### Settings Window
+![](.attachments/settings-window.png)
+### About Window
+![](.attachments/about-window.png)
