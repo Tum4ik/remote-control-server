@@ -1,8 +1,9 @@
-<p align="center">
-  <img src=".attachments/logo.png" />
-</p>
+<h1 align="center">
+  <img src=".attachments/logo.png" alt="Remote Control Server" />
+  <br>
+  Remote Control Server
+</h1>
 
-# Remote Control Server
 [![Latest version: 1.0.21181.2](https://img.shields.io/badge/Latest_version-1.0.21181.2-007ACC)](https://github.com/Tum4ik/remote-control-server/releases/download/1.0.21181.2/RemoteControlServer-1.0.21181.2.exe)
 
 ![Platform: Windows](https://img.shields.io/badge/Platform-Windows-%23373737)
