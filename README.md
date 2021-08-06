@@ -4,7 +4,7 @@
   Remote Control Server
 </h1>
 
-[![Latest version: 1.0.21181.2](https://img.shields.io/badge/Latest_version-1.0.21181.2-007ACC)](https://github.com/Tum4ik/remote-control-server/releases/download/1.0.21181.2/RemoteControlServer-1.0.21181.2.exe)
+[![Latest version: 1.1.21218.1](https://img.shields.io/badge/Latest_version-1.1.21218.1-007ACC)](https://github.com/Tum4ik/remote-control-server/releases/download/1.1.21218.1/RemoteControlServer-1.1.21218.1.exe)
 
 ![Platform: Windows](https://img.shields.io/badge/Platform-Windows-%23373737)
 
